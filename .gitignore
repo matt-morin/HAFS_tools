@@ -20,6 +20,7 @@ sorc/hafs_tools.fd/sorc_2025AUG20/
 sorc/hafs_tools.fd/sorc_2025AUG20_CosmeticMods/
 sorc/hafs_tools.fd/sorc_fix_new/
 sorc/hafs_tools.fd/sorc/hafs_datool/sub_hafsvi_preproc_ic.f90_2024SEP10
+sorc/hafs_tools.fd/sorc/hafs_datool/sub_hafsvi_preproc_ic.f90_2025AUG20
 sorc/hafs_tools.fd/sorc/hafs_vi/create_trak_init/create_trak_init.f90_2024SEP10
 sorc/hafs_tools.fd/sorc/hafs_vi/split/split.f90_2025FEB18
 sorc/hafs_tools.fd/sorc/hafs_vi/split/split.f90_2025JUN13
