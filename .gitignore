@@ -4,6 +4,7 @@
 *.log
 sorc/hafs_tools.fd/sorc/build/
 sorc/hafs_tools.fd/exec/
+sorc/modulefile.hafs.gaea_c5
 modulefiles/modulefile.hafs.gaea_c5_2024SEP10
 modulefiles/modulefile.hafs.gaea_c5_2025FEB19
 sorc/hafs_tools.fd/exec_2024SEP10/
