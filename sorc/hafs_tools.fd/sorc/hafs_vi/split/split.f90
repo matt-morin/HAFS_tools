@@ -1463,7 +1463,7 @@
        IF(N_CHECK.EQ.0)THEN
          print*,'ALERT: NSUM(I,J)=',NSUM(I,J),' RDST1=',RDST1
          print*,'ERROR: NSUM(I,J)<=5! You need to increase RDST1. Aborting...'
-         stop 1
+         STOP 1
        END IF
 
        print*,'corners=',XLON(1,1),XLON(INX,JNX)
